@@ -5,6 +5,8 @@
 This project is focused on web scraping electoral data from the [Infogob JNE](https://infogob.jne.gob.pe/Eleccion) website using Python and Selenium. The script automates the process of navigating the website, selecting electoral processes, extracting relevant data, and saving it into an Excel file.
 Ensure that you have a stable internet connection while running the script to avoid timeouts and errors in web scraping.
 
+This Project was made during a data science program in QLAB, 2023. 
+
 ## Prerequisites
 
 Make sure you have the following installed before running the script:
